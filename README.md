@@ -1,4 +1,5 @@
-## Hi there 👋
+### Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ashwin-s-eswar-9b4393199/)
 
 <!--
 **ashwin-seshadree/ashwin-seshadree** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
